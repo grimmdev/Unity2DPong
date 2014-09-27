@@ -7,4 +7,4 @@ Made entirely out of Unity's new 2D system and with physics in mind. Very minima
 
 Controls are W and S for Player 1 and Up Arrow and Down Arrow for Player 2.
 
-<a href="http://grimmdev.github.io/2DPong/">Preview</a>
+<a href="http://grimmdev.github.io/Unity2DPong/">Preview</a>
